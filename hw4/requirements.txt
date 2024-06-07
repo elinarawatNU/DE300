@@ -1,0 +1,13 @@
+# Apache Airflow providers and extras
+psycopg2-binary
+sqlalchemy
+pandas
+scikit-learn
+tomli
+pyarrow
+boto3
+bottleneck
+pyspark
+matplotlib
+seaborn
+numpy
